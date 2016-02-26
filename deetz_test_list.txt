@@ -1,0 +1,8 @@
+TEST1 : simple declarations
+TEST2 : complex declarations
+TEST3 : functions and declarations
+TEST4 : functions and declarations, whiles and fors
+TEST5 : ifs
+TEST6 : while, for, if, nested while, nested for, nested if
+TEST7 : everything from before combined
+TEST8 : included edge cases
