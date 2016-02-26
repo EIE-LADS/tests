@@ -1,0 +1,4 @@
+VARIABLE : a
+VARIABLE : b
+VARIABLE : c
+VARIABLE : d

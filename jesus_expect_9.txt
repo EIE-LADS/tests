@@ -1,0 +1,7 @@
+FUNCTION : fIrSt12
+    PARAMETER : HE_LLO
+    PARAMETER : WORLD_
+SCOPE
+    VARIABLE : x
+    SCOPE
+        VARIABLE : y2

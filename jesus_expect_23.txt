@@ -1,0 +1,17 @@
+VARIABLE : x
+VARIABLE : y
+FUNCTION : main
+    PARAMETER : a
+    PARAMETER : b2
+    PARAMETER : a_b_c23
+SCOPE
+    VARIABLE : o_2
+    VARIABLE : o_3
+    SCOPE
+        SCOPE
+            VARIABLE : jsjsjs
+            SCOPE
+                VARIABLE : b
+            SCOPE
+                SCOPE
+                    VARIABLE : hi

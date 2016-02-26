@@ -1,0 +1,4 @@
+FUNCTION : main
+SCOPE
+    VARIABLE : x
+    VARIABLE : y

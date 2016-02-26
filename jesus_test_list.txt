@@ -1,0 +1,37 @@
+TEST 1: 	Basic declaration
+TEST 2: 	Declaration with instatiation
+TEST 3: 	Declaration list
+TEST 4: 	Declaration list with instatiation
+TEST 5:		Mixed Declarations 
+TEST 6: 	Function without parameters and empty scope
+TEST 7: 	Function with parameter and declaration    	
+TEST 8:		Function with assigments and return 
+TEST 9:     	Function with parameters and inner scope 
+TEST 10: 	If statement in function without scope
+TEST 11: 	If statement in function with empty scope
+TEST 12:	If statement in function with mixed scope
+TEST 13:	If statement in function with nested scope and if
+TEST 14:	While statement in function without scope
+TEST 15:	While statement in function with empty scope         
+TEST 16:	While statement in function with mixed scope          
+TEST 17: 	While statement in function with nested scope and if
+TEST 18: 	For statement in function without scope
+TEST 19: 	For statement in function with empty scope
+TEST 20:   	For statement in function with mixed scope
+TEST 21:    	For statement in function with nested scope and if
+TEST 22:	Different expressions
+TEST 23: 	Complex function including up to test 22
+TEST 24: 	Bracket else
+TEST 25: 	Non-bracket single else
+TEST 26: 	Bracket single else
+TEST 27:	Multiple bracket else
+TEST 28: 	Multiple elif (hanging problem) only test it parses, may be incorrect
+TEST 29: 	Bracket expressions
+TEST : 
+TEST : 
+TEST : 
+TEST :
+
+MISSING:
+
+- Test Bracket expressions
