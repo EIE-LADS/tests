@@ -1,1 +1,2 @@
-syntax error, unexpected LONG, expecting INT
+VARIABLE : y
+VARIABLE : z

@@ -1,1 +1,1 @@
-syntax error, unexpected FLOAT_KWD, expecting INT
+VARIABLE : y
